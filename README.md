@@ -1,4 +1,4 @@
-# Simple E-Commerce Website
+# Simple E-Commerce Website "Carty"
 
 This simple e-commerce website is a demonstration of how to build an online store using basic web development technologies. It was created with a combination of front-end and back-end technologies to provide a seamless shopping experience.
 
