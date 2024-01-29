@@ -31,4 +31,4 @@ Admin Dashboard Features:
 - Order Management:
     - View a list of all orders placed on the website.
     - Update order status (e.g., mark as shipped, delivered).
-    - View order details including items order id, user address, order status, user id, order date.
+    - View order details including item order ID, user address, order status, user ID, and order date.
