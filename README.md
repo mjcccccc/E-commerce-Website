@@ -10,6 +10,7 @@ This simple e-commerce website is a demonstration of how to build an online stor
   - Bootstrap
   ### Backend:
   - PHP
+  - MySQL
 
 ## Features
   - User-friendly interface designed with HTML and styled with CSS to ensure a visually appealing layout.
