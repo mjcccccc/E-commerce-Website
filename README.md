@@ -22,8 +22,6 @@ This simple e-commerce website is a demonstration of how to build an online stor
 
 ## Admin Features:
 
-Certainly! Here are additional features related to the admin dashboard for managing products and orders in your e-commerce website:
-
 Admin Dashboard Features:
   - Product Management:
     - Add new products to the inventory.
